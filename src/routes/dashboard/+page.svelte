@@ -46,58 +46,6 @@
 
 	$: apps = [
 		{
-			name: 'Ship',
-			href: import.meta.env.VITE_APPS_SHIPPING || 'asds',
-			icon: icon_ship,
-			id: 'ship',
-			tag: {
-				label: !user?.onboarded_apps?.includes('ship') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('ship') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Receive',
-			href: ``,
-			icon: icon_receive,
-			id: 'receive',
-			tag: null,
-			active: true
-		},
-		{
-			name: 'Track',
-			href: import.meta.env.VITE_APPS_TRACK || '/dashboard/sales',
-			icon: icon_track,
-			id: 'track',
-			tag: {
-				label: !user?.onboarded_apps?.includes('track') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('track') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Inventory',
-			href: import.meta.env.VITE_APPS_INVENTORY || '/dashboard/sales',
-			icon: icon_inventory,
-			id: 'inventory',
-			tag: {
-				label: !user?.onboarded_apps?.includes('inventory') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('inventory') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Deliver',
-			href: '/dashboard/sales',
-			icon: icon_deliver,
-			id: 'deliver',
-			tag: {
-				label: !user?.onboarded_apps?.includes('deliver') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('deliver') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
 			name: 'Locations',
 			href: '/locations',
 			icon: icon_locations,
@@ -106,47 +54,6 @@
 				label: !user?.onboarded_apps?.includes('locations') ? 'New' : null,
 				color: !user?.onboarded_apps?.includes('locations') ? 'primary-lightest' : null
 			},
-			active: true
-		},
-		{
-			name: 'Contacts',
-			href: import.meta.env.VITE_APPS_CONTACTS || '/dashboard/sales',
-			icon: icon_directory,
-			id: 'contacts',
-			tag: {
-				label: !user?.onboarded_apps?.includes('contacts') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('contacts') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Workflows',
-			href: import.meta.env.VITE_APPS_WORKFLOWS || '/dashboard/sales',
-			icon: icon_workflows,
-			id: 'workflows',
-			tag: {
-				label: !user?.onboarded_apps?.includes('workflows') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('workflows') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Logs',
-			href: import.meta.env.VITE_APPS_LOGS || '/dashboard/sales',
-			icon: icon_logs,
-			id: 'logs',
-			tag: {
-				label: !user?.onboarded_apps?.includes('logs') ? 'New' : null,
-				color: !user?.onboarded_apps?.includes('logs') ? 'primary-lightest' : null
-			},
-			active: true
-		},
-		{
-			name: 'Settings',
-			href: '/settings',
-			icon: icon_settings,
-			id: 'settings',
-			tag: null,
 			active: true
 		}
 	];

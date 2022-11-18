@@ -33,7 +33,6 @@
 			type: 'submit',
 			label: 'Create Location',
 			onsubmit: async (event) => {
-				debugger;
 				const loading = event.currentTarget.id;
 				showLoading(loading);
 				try {
