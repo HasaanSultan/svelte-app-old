@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>receive-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.23685784e-13%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#8E4DF4" offset="0%"></stop>
+            <stop stop-color="#530EC1" offset="51.376449%"></stop>
+            <stop stop-color="#47EAE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="receive-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M167.2,233 L85.2,233 C77.9,233 72,227.1 72,219.8 L72,80.2 C72,72.9 77.9,67 85.2,67 L167.2,67 C174.5,67 180.4,72.9 180.4,80.2 L180.4,219.8 C180.4,227 174.5,233 167.2,233 Z" id="Path" fill="#47EAE2" fill-rule="nonzero"></path>
+        <path d="M229,170.7 L229,129.2 C229,124.4 226.5,120 222.3,117.6 L186.3,96.8 C182.2,94.4 177.1,94.4 173,96.8 L137,117.6 C132.9,120 130.3,124.4 130.3,129.2 L130.3,170.7 C130.3,175.5 132.8,179.9 137,182.3 L173,203.1 C177.1,205.5 182.2,205.5 186.3,203.1 L222.3,182.3 C226.4,179.9 229,175.5 229,170.7 Z" id="Path" fill="#8E4DF4" fill-rule="nonzero"></path>
+        <path d="M180.4,204.8 L180.4,95.1 C177.9,95 175.3,95.5 173,96.8 L137,117.6 C132.9,120 130.3,124.4 130.3,129.2 L130.3,170.7 C130.3,175.5 132.8,179.9 137,182.3 L173,203.1 C175.2,204.4 177.8,204.9 180.4,204.8 Z" id="Path" fill="#530EC1" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>directory-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.23685784e-13%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E44E63" offset="0%"></stop>
+            <stop stop-color="#530EC1" offset="51.376449%"></stop>
+            <stop stop-color="#47EAE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="directory-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M188.9,215.7 L65.6,215.7 C57.5,215.7 51,209.2 51,201.1 L51,98.6 C51,90.5 57.5,84 65.6,84 L112.1,84 C116.5,84 120.6,86 123.4,89.4 L138.5,107.9 C141.3,111.3 145.4,113.3 149.8,113.3 L188.9,113.3 C197,113.3 203.5,119.8 203.5,127.9 L203.5,201.2 C203.5,209.1 197,215.7 188.9,215.7 Z" id="Path" fill="#47EAE2" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#E44E63" fill-rule="nonzero" points="248.5 113.2 128.5 113.2 105.7 215.7 225.7 215.7"></polygon>
+        <path d="M203.5,201 L203.5,127.7 C203.5,119.6 197,113.1 188.9,113.1 L149.8,113.1 L128.5,113.1 L105.7,215.6 L189,215.6 C197,215.7 203.5,209.1 203.5,201 Z" id="Path" fill="#530EC1" fill-rule="nonzero"></path>
+    </g>
+</svg>

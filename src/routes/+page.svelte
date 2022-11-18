@@ -1,7 +1,6 @@
 <script>
 	import 'bubbles-ui/css/app.css';
 	import { Header, Row, Column100, Card, Form, CardHeader } from 'bubbles-ui';
-	$: name = 'Hasaan';
 
 	$: inputs = [
 		{
@@ -9,7 +8,6 @@
 			id: 'name',
 			label: 'name',
 			validation: 'string|required',
-			value: name,
 			error: 'Name is required'
 		},
 		{
@@ -48,25 +46,6 @@
 	]}
 />
 
-<Header
-	title="PackageX Cloud"
-	breadcrumbs={false}
-	buttons={[
-		{
-			icon: 'more',
-			color: 'gray-lighter',
-			search: false,
-			options: [
-				{
-					label: 'Organization',
-					caption: 'Update company settings',
-					// href: '/dashboard/organization',
-					hidden: false
-				}
-			]
-		}
-	]}
-/>
 <Row>
 	<Column100>
 		<Card>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>deliver-icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="75.3736433%" x2="50%" y2="1.16660154e-14%" id="linearGradient-1">
+            <stop stop-color="#8E4DF4" offset="0%"></stop>
+            <stop stop-color="#F25252" offset="36.747745%"></stop>
+            <stop stop-color="#F25252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="deliver-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M214.675,246.375 L85.275,246.375 C81.075,246.375 77.675,242.975 77.675,238.775 L77.675,202.675 C77.675,198.475 81.075,195.075 85.275,195.075 L214.575,195.075 C218.775,195.075 222.175,198.475 222.175,202.675 L222.175,238.775 C222.275,242.975 218.875,246.375 214.675,246.375 Z" id="Path" fill="#8E4DF4" fill-rule="nonzero"></path>
+        <path d="M232.675,158.475 L165.475,225.675 C156.975,234.175 143.075,234.175 134.575,225.675 L67.375,158.475 C58.875,149.975 58.875,136.075 67.375,127.575 L134.575,60.375 C143.075,51.875 156.975,51.875 165.475,60.375 L232.675,127.575 C241.275,136.075 241.275,149.875 232.675,158.475 Z" id="Path" fill="#F25252" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>track-icon</title>
+    <defs>
+        <linearGradient x1="1.49359691e-13%" y1="26.0707887%" x2="100%" y2="26.0707402%" id="linearGradient-1">
+            <stop stop-color="#E44E63" offset="0%"></stop>
+            <stop stop-color="#530EC1" offset="50.429924%"></stop>
+            <stop stop-color="#47EAE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="track-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M235.125,103.505978 C223.525,92.805978 208.725,87.505978 193.925,87.505978 C179.125,87.505978 164.325,92.805978 152.725,103.505978 C130.125,124.405978 127.125,158.005978 143.625,182.305978 L184.225,238.405978 C187.525,242.905978 190.125,244.405978 193.925,244.605978 C197.825,244.305978 200.325,242.905978 203.625,238.405978 L244.225,182.305978 C260.725,157.905978 257.725,124.405978 235.125,103.505978 Z" id="Path" fill="#47EAE2" fill-rule="nonzero"></path>
+        <path d="M183.425,56.105978 L53.125,114.605978 C43.625,118.905978 43.625,132.305978 53.125,135.505978 L102.325,152.205978 L119.025,201.405978 C122.225,210.905978 135.625,210.905978 139.925,201.405978 L198.425,71.005978 C202.725,61.205978 193.225,51.705978 183.425,56.105978 Z" id="Path" fill="#F9418D" fill-rule="nonzero"></path>
+        <path d="M152.725,103.505978 C130.125,124.405978 127.125,158.005978 143.625,182.305978 L146.625,186.405978 L190.925,87.605978 C177.125,88.205978 163.525,93.505978 152.725,103.505978 Z" id="Path" fill="#530EC1" fill-rule="nonzero"></path>
+    </g>
+</svg>

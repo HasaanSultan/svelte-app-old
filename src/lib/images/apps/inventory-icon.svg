@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>inventory-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.23685784e-13%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#47EAE2" offset="0%"></stop>
+            <stop stop-color="#530EC1" offset="51.376449%"></stop>
+            <stop stop-color="#47EAE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="inventory-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M123.5,107.1 C128.3,98.7 140.4,98.7 145.2,107.1 L173.5,156.1 L201.8,205.1 C206.6,213.5 200.6,223.9 190.9,223.9 L134.3,223.9 L77.7,223.9 C68,223.9 62,213.4 66.8,205.1 L95.1,156.1 L123.5,107.1 Z" id="Path" fill="#8E4DF4" fill-rule="nonzero"></path>
+        <path d="M104.5,174.4 L44.9,174.4 C34.5,174.4 26,165.9 26,155.5 L26,95.9 C26,85.5 34.5,77 44.9,77 L104.5,77 C114.9,77 123.4,85.5 123.4,95.9 L123.4,155.5 C123.4,166 114.9,174.4 104.5,174.4 Z" id="Path" fill="#47EAE2" fill-rule="nonzero"></path>
+        <circle id="Oval" fill="#47EAE2" fill-rule="nonzero" cx="213.9" cy="150" r="59.4"></circle>
+        <path d="M123.4,155.6 L123.4,107.4 L95.3,156.1 L84.7,174.4 L104.5,174.4 C114.9,174.4 123.4,166 123.4,155.6 Z" id="Path" fill="#530EC1" fill-rule="nonzero"></path>
+        <path d="M173.4,156.1 L158.1,129.5 C155.8,135.9 154.5,142.8 154.5,150 C154.5,179.1 175.4,203.3 203.1,208.4 C202.8,207.3 202.4,206.2 201.8,205.1 L173.4,156.1 Z" id="Path" fill="#530EC1" fill-rule="nonzero"></path>
+    </g>
+</svg>

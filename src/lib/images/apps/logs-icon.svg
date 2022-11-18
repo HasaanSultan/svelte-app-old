@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logs-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.23685784e-13%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#20E7A8" offset="0%"></stop>
+            <stop stop-color="#530EC1" offset="51.376449%"></stop>
+            <stop stop-color="#47EAE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logs-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+        <path d="M178.7,231.6 L78.7,231.6 C73.4,231.6 69,227.3 69,221.9 L69,78.7 C69,73.4 73.3,69 78.7,69 L145.9,69 C151,69 155.9,71 159.6,74.6 L182.5,96.8 C186.3,100.5 188.5,105.6 188.5,110.9 L188.5,221.9 C188.4,227.3 184.1,231.6 178.7,231.6 Z" id="Path" fill="#A584F2" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#20E7A8" fill-rule="nonzero" x="123.4" y="168.7" width="106.7" height="25.5"></rect>
+        <rect id="Rectangle" fill="#530EC1" fill-rule="nonzero" x="123.4" y="168.7" width="65" height="25.5"></rect>
+        <rect id="Rectangle" fill="#20E7A8" fill-rule="nonzero" x="123.4" y="124.8" width="92" height="25.5"></rect>
+        <rect id="Rectangle" fill="#530EC1" fill-rule="nonzero" x="123.4" y="124.8" width="65" height="25.5"></rect>
+    </g>
+</svg>

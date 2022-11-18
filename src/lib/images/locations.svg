@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>addresses</title>
+    <g id="Interface-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="addresses">
+            <path d="M24,0 L24,24 L0,24 L0,0 L24,0 Z" id="Vector"></path>
+            <path d="M5.30000305,9.44999695 C5.30000305,14.0299969 11.3000031,20.7700031 11.5500031,21.0500031 C11.790003,21.3200031 12.209997,21.3200031 12.4499969,21.0500031 C12.7099969,20.7700031 18.6999969,14.0299969 18.6999969,9.44999695 C18.6999969,5.75999689 15.6900001,2.75 12,2.75 C8.30999994,2.75 5.30000305,5.75999689 5.30000305,9.44999695 Z" id="Vector" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+            <path d="M12.0123355,11.8146321 C10.7034206,11.8146321 9.64234036,10.7535366 9.64234036,9.44462169 C9.64234036,8.13570679 10.7034206,7.07462657 12.0123355,7.07462657 C13.3212504,7.07462657 14.3823306,8.13570679 14.3823306,9.44462169 C14.3823306,10.7535366 13.3212504,11.8146321 12.0123355,11.8146321 Z" id="Vector" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" transform="translate(12.012335, 9.444629) rotate(-9.044112) translate(-12.012335, -9.444629) "></path>
+        </g>
+    </g>
+</svg>

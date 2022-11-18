@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ship-icon</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.23685784e-13%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1BF2A3" offset="0%"></stop>
+            <stop stop-color="#F25252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ship-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill-opacity="0.15" fill="url(#linearGradient-1)" x="0" y="0" width="300" height="300"></rect>
+            <path d="M124.6,79 L232.3,79 C241.6,79 249.1,86.5 249.1,95.8 L249.1,203.5 C249.1,212.8 241.6,220.3 232.3,220.3 L124.6,220.3 C115.3,220.3 107.8,212.8 107.8,203.5 L107.8,95.8 C107.8,86.5 115.3,79 124.6,79 Z" id="Path" fill="#1BF2A3" fill-rule="nonzero"></path>
+            <path d="M149.7,140.4 C156.8,144.5 156.8,154.8 149.7,158.9 L107.9,183 L66.1,207.1 C59,211.2 50,206.1 50,197.8 L50,149.6 L50,101.4 C50,93.2 58.9,88 66.1,92.1 L107.9,116.2 L149.7,140.4 Z" id="Path" fill="#F25252" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
