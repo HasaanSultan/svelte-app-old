@@ -2,7 +2,7 @@
 	import 'bubbles-ui/css/app.css';
 
 	// Import the components
-	import { SidebarPageWrapper, Sidebar, ToastContainer } from 'bubbles-ui';
+	import { SidebarPageWrapper, Sidebar, ToastContainer, ModalContainer } from 'bubbles-ui';
 	import logo from '$lib/images/logo.svg';
 
 	// Import the stores, just separated for cleaner code
@@ -38,3 +38,4 @@
 <SidebarPageWrapper>
 	<slot />
 </SidebarPageWrapper>
+<ModalContainer />

@@ -1,6 +1,14 @@
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+npm create svelte@2.0.0-next.71 old-svelte
+@sveltejs/kit: "1.0.0-next.515", in package json.
+
+npx svelte-migrate routes to migrate routes to new
+
+npm i vite@3.1.0-beta.1
+
+then change it to
 
 ## Creating a project
 
